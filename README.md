@@ -4,7 +4,7 @@ An interactive E-Commerce Sales Dashboard built with Python, Pandas, Plotly and 
 
 ## 🚀 Live Dashboard
 
-(👉 [Open Live E-Commerce Sales Dashboard](https://moqaddas-ecommerce-sales-dashbo-analysis-dashboard-clean-ds3rud.streamlit.app)
+👉 [Open Live E-Commerce Sales Dashboard](https://moqaddas-ecommerce-sales-dashboard-analysis-dashboard-clean-ds3rud.streamlit.app/)
 ## 📊 Features
 
 •⁠  ⁠Sales KPIs
